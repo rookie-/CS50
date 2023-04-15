@@ -1,4 +1,4 @@
-```C
+
 #include <cs50.h>
 #include <stdio.h>
 
@@ -36,4 +36,3 @@ int main(void)
     // TODO: Print number of years
     printf("Start size: %i\n End size: %i\n Years: %i\n.", startsize, endsize, n);
 }
-```
